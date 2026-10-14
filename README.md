@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Cleaning & Analysis \| Power BI
+# 🏥 Healthcare Data Cleaning & star schema modelling \| Power BI
 
 A Power BI project focused on preparing a healthcare dataset for
 reliable analysis. The dataset contains **55,500 patient admission
@@ -108,7 +108,7 @@ dataset, using Power Query for data cleaning and transformation, and
 preparing healthcare data for analysis in Power BI.
 
 
-<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/74c99df8-6807-4bb6-9970-c7d910a86c41" />
+<img width="1366" height="720" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/90e3ab5e-9c8a-4067-9d36-dbea26c794cb" />
 
 
 ------------------------------------------------------------------------
